@@ -18,6 +18,8 @@ Hi there! I'm a software engineer with a focus on **Go**, **microservices**, and
 - **Intern Backend Developer** @ OwLidar
 
 ### Projects:
-- **Cybertech Pulse**: A registered SOAR platform for security event automation.
+- **Cybertech Pulse**: A registered SOAR platform for security event automation.  
+  - **QazPatent ID**: 63325  
+  - **Copyright**: Registered on 23.10.2025
 
 Feel free to explore my work!
