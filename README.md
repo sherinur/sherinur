@@ -1,7 +1,7 @@
 # Nurislam Sheri
 
 **Go Developer | Backend Engineer | Cybersecurity Enthusiast**  
-[LinkedIn](https://linkedin.com/in/nurislam-sheri-429412299) | [GitHub](https://github.com/sherinur)
+[LinkedIn](https://linkedin.com/in/nurislam-sheri-429412299)
 
 ---
 
