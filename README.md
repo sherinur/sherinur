@@ -9,7 +9,7 @@ Hi there! I'm a software engineer with a focus on **Go**, **microservices**, and
 
 ### Skills:
 - **Languages**: Go, JavaScript, TypeScript
-- **Technologies**: Kafka, Redis, gRPC, PostgreSQL
+- **Technologies**: PostgreSQL, gRPC, Kafka, Redis, MongoDB, React
 - **CI/CD**: Docker, GitLab
 - **Frameworks**: Gin, Gorm
 
